@@ -1,0 +1,24 @@
+#include <reg52.h>
+Sbit LED= P2^0
+Void Delay (void);
+Void main (void)
+{
+while(1)
+}
+LED=0;
+Delay();
+LED=1;
+Delay();
+}
+}
+Vod Delay (void)
+{
+int j;
+int i;
+for (i=o; i<10; i++)
+{
+for (j=0; j<10000; j++)
+{
+}
+{
+}
